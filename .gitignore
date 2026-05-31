@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.h5        ← or move to external storage

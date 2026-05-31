@@ -87,11 +87,8 @@ Open any notebook in `notebooks/` directly in Google Colab. Refer to `Google_Col
 
 ## Model Weights
 
-The trained model file (`metallm_model.h5`) is too large to host on GitHub. Download it here:
+The trained model file is in the models folder:
 
-> 📦 **[Download from Google Drive / Zenodo]** *(link to be added)*
-
-Place the downloaded file in the project root before running inference notebooks.
 
 ---
 
